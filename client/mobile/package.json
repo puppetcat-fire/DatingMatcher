@@ -1,6 +1,7 @@
 {
-  "name": "datingmatcher-mobile",
+  "name": "romantic-oracle-raven-mobile",
   "version": "1.0.0",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
