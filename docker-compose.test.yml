@@ -1,0 +1,32 @@
+version: '3.8'
+
+services:
+  mongodb-test:
+    image: mongo:latest
+    container_name: datingmatcher-mongodb-test
+    ports:
+      - "27018:27017"
+    environment:
+      - MONGO_INITDB_DATABASE=datingmatcher_test
+    restart: unless-stopped
+
+  backend-test:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    container_name: datingmatcher-backend-test
+    environment:
+      - MONGO_URI=mongodb://mongodb-test:27017/datingmatcher_test
+      - JWT_SECRET=test_secret
+      - NODE_ENV=test
+    depends_on:
+      - mongodb-test
+    command: npm test
+
+  frontend-test:
+    image: node:18-alpine
+    working_dir: /app
+    volumes:
+      - ./client/web:/app
+      - /app/node_modules
+    command: sh -c "npm install && npm test"

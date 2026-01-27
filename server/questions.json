@@ -1,0 +1,4802 @@
+[
+  {
+    "text": "你交友时最看重什么品质？",
+    "textEn": "What qualities do you value most when making friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你擅长发现细节吗？",
+    "textEn": "Are you good at noticing details?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你对未来10年有什么期望？",
+    "textEn": "What expectations do you have for the next 10 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有购买奢侈品的习惯吗？",
+    "textEn": "Do you have a habit of buying luxury goods?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为幸福是什么？",
+    "textEn": "What do you think happiness is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你遇到过什么重大挑战？",
+    "textEn": "What major challenges have you encountered?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是如何克服这些挑战的？",
+    "textEn": "How did you overcome these challenges?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "当你不同意他人观点时，你会如何表达？",
+    "textEn": "How do you express disagreement with others?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢旅行吗？",
+    "textEn": "Do you like traveling?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望什么时候结婚？",
+    "textEn": "When do you hope to get married?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视工作中的人际关系吗？",
+    "textEn": "Do you value interpersonal relationships at work?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在未来5年内达到什么职业水平？",
+    "textEn": "What career level do you hope to achieve in the next 5 years?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意承担家庭经济责任吗？",
+    "textEn": "Are you willing to take on family financial responsibilities?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义职业成功？",
+    "textEn": "How do you define career success?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在社交场合中通常扮演什么角色？",
+    "textEn": "What role do you usually play in social situations?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理恋爱中的平淡期？",
+    "textEn": "How do you handle the平淡 period in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为父母应该如何教育孩子？",
+    "textEn": "How do you think parents should educate their children?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "这些挑战对你有什么影响？",
+    "textEn": "What impact did these challenges have on you?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人生理想重要吗？",
+    "textEn": "Do you think life ideals are important?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你想要几个孩子？",
+    "textEn": "How many children do you want?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会向他人倾诉你的情绪吗？",
+    "textEn": "Do you share your emotions with others?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何处理朋友之间的矛盾？",
+    "textEn": "How do you handle conflicts between friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有午休习惯吗？",
+    "textEn": "Do you have a habit of taking naps?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你周末的作息与工作日有什么不同？",
+    "textEn": "How is your weekend schedule different from weekdays?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你旅行时喜欢自由行还是跟团游？",
+    "textEn": "Do you prefer free travel or group tours when traveling?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在选择工作时最看重什么？",
+    "textEn": "What do you value most when choosing a job?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你去过哪些地方旅行？",
+    "textEn": "Where have you traveled?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你做决定时通常依赖什么？",
+    "textEn": "What do you typically rely on when making decisions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你重视工作中的人际关系吗？",
+    "textEn": "Do you value interpersonal relationships at work?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有什么难忘的成长经历？",
+    "textEn": "What unforgettable growth experiences do you have?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为家庭决策应该由谁来做？",
+    "textEn": "Who do you think should make family decisions?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会感到社交疲惫吗？",
+    "textEn": "Do you feel socially exhausted?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会查看伴侣的手机吗？",
+    "textEn": "Would you check your partner's phone?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你考虑过创业吗？",
+    "textEn": "Have you considered starting a business?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为家庭中男女角色应该如何分工？",
+    "textEn": "How do you think gender roles should be divided in the family?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会感到社交疲惫吗？",
+    "textEn": "Do you feel socially exhausted?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你需要他人的认可吗？",
+    "textEn": "Do you need recognition from others?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你对未来5年有什么规划？",
+    "textEn": "What are your plans for the next 5 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义自己的成功？",
+    "textEn": "How do you define your own success?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视孩子的教育吗？",
+    "textEn": "Do you value your children's education?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有饮食禁忌吗？",
+    "textEn": "Do you have any dietary restrictions?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有健康的生活习惯吗？",
+    "textEn": "Do you have healthy living habits?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何建立安全感？",
+    "textEn": "How do you build a sense of security?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为良好的作息习惯重要吗？",
+    "textEn": "Do you think good sleep habits are important?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待他人的赞美？",
+    "textEn": "How do you view others' compliments?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人生理想重要吗？",
+    "textEn": "Do you think life ideals are important?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理恋爱中的冲突？",
+    "textEn": "How do you handle conflicts in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待离婚？",
+    "textEn": "How do you view divorce?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为忠诚在恋爱中重要吗？",
+    "textEn": "Do you think loyalty is important in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为10年后的世界会是什么样子？",
+    "textEn": "What do you think the world will be like in 10 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会演奏乐器吗？",
+    "textEn": "Can you play any musical instruments?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻需要爱情吗？",
+    "textEn": "Do you think marriage needs love?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理恋爱中的平淡期？",
+    "textEn": "How do you handle the平淡 period in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为理性思考重要吗？",
+    "textEn": "Do you think rational thinking is important?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为挑战对成长有好处吗？",
+    "textEn": "Do you think challenges are good for growth?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢什么运动？",
+    "textEn": "What sports do you like?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常需要多长时间从负面情绪中恢复？",
+    "textEn": "How long does it usually take you to recover from negative emotions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何平衡理性和感性？",
+    "textEn": "How do you balance rationality and emotion?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为家庭中男女角色应该如何分工？",
+    "textEn": "How do you think gender roles should be divided in the family?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有长期规划吗？",
+    "textEn": "Do you have long-term plans?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你的职业目标是什么？",
+    "textEn": "What are your career goals?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你更在意自己的感受还是他人的评价？",
+    "textEn": "Do you care more about your own feelings or others' evaluations?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是素食主义者吗？",
+    "textEn": "Are you a vegetarian?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为诚实是绝对的吗？",
+    "textEn": "Do you think honesty is absolute?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常如何健身？",
+    "textEn": "How do you usually exercise?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你的成长经历对你有什么影响？",
+    "textEn": "How have your growth experiences influenced you?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你遇到过什么重大挑战？",
+    "textEn": "What major challenges have you encountered?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢什么运动？",
+    "textEn": "What sports do you like?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为社交对生活重要吗？",
+    "textEn": "Do you think socializing is important to life?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视工作中的人际关系吗？",
+    "textEn": "Do you value interpersonal relationships at work?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢安静的场合还是热闹的场合？",
+    "textEn": "Do you prefer quiet occasions or lively ones?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为规划对未来重要吗？",
+    "textEn": "Do you think planning is important for the future?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为父母应该如何教育孩子？",
+    "textEn": "How do you think parents should educate their children?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你是冲动型消费者还是理性型消费者？",
+    "textEn": "Are you an impulsive consumer or a rational one?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了环保而改变消费习惯吗？",
+    "textEn": "Would you change your consumption habits for environmental protection?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了长期目标牺牲短期利益吗？",
+    "textEn": "Would you sacrifice short-term interests for long-term goals?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你更在意自己的感受还是他人的评价？",
+    "textEn": "Do you care more about your own feelings or others' evaluations?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你的职业目标是什么？",
+    "textEn": "What are your career goals?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望伴侣在你身边扮演什么角色？",
+    "textEn": "What role do you want your partner to play by your side?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了获得认可而改变自己吗？",
+    "textEn": "Would you change yourself to gain recognition?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意学习新的知识和技能吗？",
+    "textEn": "Are you willing to learn new knowledge and skills?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待过去的经历？",
+    "textEn": "How do you view past experiences?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你的成长经历对你有什么影响？",
+    "textEn": "How have your growth experiences influenced you?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了多数人的利益牺牲少数人的利益吗？",
+    "textEn": "Would you sacrifice the interests of a few for the benefit of the majority?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为学历重要吗？",
+    "textEn": "Do you think academic qualifications are important?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理恋爱中的冲突？",
+    "textEn": "How do you handle conflicts in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理朋友之间的矛盾？",
+    "textEn": "How do you handle conflicts between friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会冷战吗？",
+    "textEn": "Would you give the silent treatment?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢社交活动吗？",
+    "textEn": "Do you like social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待公平？",
+    "textEn": "How do you view fairness?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为未来5年会发生什么变化？",
+    "textEn": "What changes do you think will happen in the next 5 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何应对不喜欢的社交场合？",
+    "textEn": "How do you deal with social situations you don't like?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为成功需要什么条件？",
+    "textEn": "What conditions do you think are needed for success?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你更在意自己的感受还是他人的评价？",
+    "textEn": "Do you care more about your own feelings or others' evaluations?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何投资你的钱？",
+    "textEn": "How do you invest your money?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何看待加班？",
+    "textEn": "How do you view working overtime?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你现在如何看待过去的挑战？",
+    "textEn": "How do you view past challenges now?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你每年进行体检吗？",
+    "textEn": "Do you have annual physical examinations?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望通过什么方式实现自我价值？",
+    "textEn": "How do you want to realize your self-worth?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你更喜欢国内旅行还是国外旅行？",
+    "textEn": "Do you prefer domestic travel or international travel?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你定期锻炼吗？",
+    "textEn": "Do you exercise regularly?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻应该门当户对吗？",
+    "textEn": "Do you think marriage should be between people of similar social status?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会主动道歉吗？",
+    "textEn": "Would you take the initiative to apologize?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常如何健身？",
+    "textEn": "How do you usually exercise?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是一个快速决策者还是谨慎决策者？",
+    "textEn": "Are you a quick decision-maker or a cautious one?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你做决定时通常依赖什么？",
+    "textEn": "What do you typically rely on when making decisions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何定义职业成功？",
+    "textEn": "How do you define career success?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为未来5年会发生什么变化？",
+    "textEn": "What changes do you think will happen in the next 5 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理沟通中的误解？",
+    "textEn": "How do you handle misunderstandings in communication?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你在关系中需要安全感吗？",
+    "textEn": "Do you need a sense of security in relationships?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢什么类型的艺术？",
+    "textEn": "What type of art do you like?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢阅读吗？",
+    "textEn": "Do you like reading?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理生活中的不确定性？",
+    "textEn": "How do you handle uncertainty in life?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你购物时更看重品牌还是性价比？",
+    "textEn": "Do you value brand or cost-effectiveness more when shopping?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为诚实是绝对的吗？",
+    "textEn": "Do you think honesty is absolute?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你是一个喜欢冒险的人吗？",
+    "textEn": "Are you an adventurous person?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为孩子应该从小培养什么品质？",
+    "textEn": "What qualities do you think children should develop from an early age?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意为了工作牺牲个人时间吗？",
+    "textEn": "Would you sacrifice personal time for work?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待心理健康？",
+    "textEn": "How do you view mental health?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在什么行业发展？",
+    "textEn": "In which industry do you hope to develop?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为爱情需要经营吗？",
+    "textEn": "Do you think love needs to be maintained?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了10年愿景而努力吗？",
+    "textEn": "Would you work hard for a 10-year vision?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有午休习惯吗？",
+    "textEn": "Do you have a habit of taking naps?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了钱做违背原则的事吗？",
+    "textEn": "Would you do something against your principles for money?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你多久参加一次社交活动？",
+    "textEn": "How often do you participate in social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意承担家庭经济责任吗？",
+    "textEn": "Are you willing to take on family financial responsibilities?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢旅行吗？",
+    "textEn": "Do you like traveling?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待撒谎？",
+    "textEn": "How do you view lying?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为家庭中男女角色应该如何分工？",
+    "textEn": "How do you think gender roles should be divided in the family?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为成功需要什么条件？",
+    "textEn": "What conditions do you think are needed for success?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了长期目标牺牲短期利益吗？",
+    "textEn": "Would you sacrifice short-term interests for long-term goals?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会查看伴侣的手机吗？",
+    "textEn": "Would you check your partner's phone?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何提升自己的专业技能？",
+    "textEn": "How do you improve your professional skills?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有健康的生活习惯吗？",
+    "textEn": "Do you have healthy living habits?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为细节决定成败吗？",
+    "textEn": "Do you think details determine success or failure?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是素食主义者吗？",
+    "textEn": "Are you a vegetarian?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢社交活动吗？",
+    "textEn": "Do you like social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常每天喝多少水？",
+    "textEn": "How much water do you usually drink per day?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在未来5年内达到什么职业水平？",
+    "textEn": "What career level do you hope to achieve in the next 5 years?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为金钱的重要性如何？",
+    "textEn": "How important do you think money is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为自己的情绪稳定性如何？",
+    "textEn": "How would you rate your emotional stability?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为孩子应该从小培养什么品质？",
+    "textEn": "What qualities do you think children should develop from an early age?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在什么行业发展？",
+    "textEn": "In which industry do you hope to develop?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是如何克服这些挑战的？",
+    "textEn": "How did you overcome these challenges?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你看问题时更注重全局还是细节？",
+    "textEn": "Do you focus more on the big picture or details when looking at problems?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理朋友之间的矛盾？",
+    "textEn": "How do you handle conflicts between friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢阅读吗？",
+    "textEn": "Do you like reading?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意学习新的知识和技能吗？",
+    "textEn": "Are you willing to learn new knowledge and skills?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为安全感来自哪里？",
+    "textEn": "Where do you think a sense of security comes from?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会查看伴侣的手机吗？",
+    "textEn": "Would you check your partner's phone?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为爱情中的信任重要吗？",
+    "textEn": "Do you think trust is important in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在关系中需要安全感吗？",
+    "textEn": "Do you need a sense of security in relationships?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理决策带来的后果？",
+    "textEn": "How do you handle the consequences of your decisions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢社交活动吗？",
+    "textEn": "Do you like social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会演奏乐器吗？",
+    "textEn": "Can you play any musical instruments?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你想要几个孩子？",
+    "textEn": "How many children do you want?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了长期目标牺牲短期利益吗？",
+    "textEn": "Would you sacrifice short-term interests for long-term goals?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何平衡自主和依赖？",
+    "textEn": "How do you balance autonomy and dependence?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有储蓄习惯吗？",
+    "textEn": "Do you have saving habits?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你会向他人倾诉你的情绪吗？",
+    "textEn": "Do you share your emotions with others?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何应对不喜欢的社交场合？",
+    "textEn": "How do you deal with social situations you don't like?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你更喜欢国内旅行还是国外旅行？",
+    "textEn": "Do you prefer domestic travel or international travel?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢在家做饭还是外出就餐？",
+    "textEn": "Do you prefer cooking at home or eating out?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢社交活动吗？",
+    "textEn": "Do you like social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "什么能给你安全感？",
+    "textEn": "What can give you a sense of security?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待离婚？",
+    "textEn": "How do you view divorce?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参加过职业培训吗？",
+    "textEn": "Have you participated in professional training?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义成功？",
+    "textEn": "How do you define success?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢独立工作还是团队合作？",
+    "textEn": "Do you prefer working independently or in a team?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为理性思考重要吗？",
+    "textEn": "Do you think rational thinking is important?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意为了工作牺牲个人时间吗？",
+    "textEn": "Would you sacrifice personal time for work?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何修复破裂的关系？",
+    "textEn": "How do you repair a broken relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会与不同价值观的人成为朋友吗？",
+    "textEn": "Would you be friends with people with different values?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有多少亲密朋友？",
+    "textEn": "How many close friends do you have?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为社交对生活重要吗？",
+    "textEn": "Do you think socializing is important to life?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为家庭在生活中的地位如何？",
+    "textEn": "What role do you think family plays in life?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何定义职业成功？",
+    "textEn": "How do you define career success?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常几点起床？",
+    "textEn": "What time do you usually get up?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会演奏乐器吗？",
+    "textEn": "Can you play any musical instruments?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会主动道歉吗？",
+    "textEn": "Would you take the initiative to apologize?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在什么行业发展？",
+    "textEn": "In which industry do you hope to develop?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为良好的作息习惯重要吗？",
+    "textEn": "Do you think good sleep habits are important?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为家庭在生活中的地位如何？",
+    "textEn": "What role do you think family plays in life?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意学习新的知识和技能吗？",
+    "textEn": "Are you willing to learn new knowledge and skills?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有午休习惯吗？",
+    "textEn": "Do you have a habit of taking naps?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你更倾向于直接还是间接的沟通方式？",
+    "textEn": "Do you prefer direct or indirect communication?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你愿意承担家庭经济责任吗？",
+    "textEn": "Are you willing to take on family financial responsibilities?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待加班？",
+    "textEn": "How do you view working overtime?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望通过什么方式实现自我价值？",
+    "textEn": "How do you want to realize your self-worth?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢听什么类型的音乐？",
+    "textEn": "What type of music do you like to listen to?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理与家人的矛盾？",
+    "textEn": "How do you handle conflicts with family members?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何处理伴侣的欺骗？",
+    "textEn": "How do you handle your partner's deception?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有饮食禁忌吗？",
+    "textEn": "Do you have any dietary restrictions?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有购买奢侈品的习惯吗？",
+    "textEn": "Do you have a habit of buying luxury goods?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为自己是内向型还是外向型性格？",
+    "textEn": "Do you consider yourself an introvert or extrovert?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你的人生理想是什么？",
+    "textEn": "What is your life ideal?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有多少亲密朋友？",
+    "textEn": "How many close friends do you have?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待加班？",
+    "textEn": "How do you view working overtime?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何提升自己的专业技能？",
+    "textEn": "How do you improve your professional skills?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你想要孩子吗？",
+    "textEn": "Do you want children?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何建立对伴侣的信任？",
+    "textEn": "How do you build trust with your partner?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为规划对未来重要吗？",
+    "textEn": "Do you think planning is important for the future?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为什么是正义？",
+    "textEn": "What do you think justice is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你更倾向于直接还是间接的沟通方式？",
+    "textEn": "Do you prefer direct or indirect communication?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为自己的创造力如何？",
+    "textEn": "How would you rate your creativity?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你交友时最看重什么品质？",
+    "textEn": "What qualities do you value most when making friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为孩子应该从小培养什么品质？",
+    "textEn": "What qualities do you think children should develop from an early age?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻应该门当户对吗？",
+    "textEn": "Do you think marriage should be between people of similar social status?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为忠诚在恋爱中重要吗？",
+    "textEn": "Do you think loyalty is important in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻应该门当户对吗？",
+    "textEn": "Do you think marriage should be between people of similar social status?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢看电影还是追剧？",
+    "textEn": "Do you prefer watching movies or TV series?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何表达对伴侣的爱？",
+    "textEn": "How do you express love to your partner?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了环保而改变消费习惯吗？",
+    "textEn": "Would you change your consumption habits for environmental protection?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你做决定时更看重长期利益还是短期利益？",
+    "textEn": "Do you value long-term interests or short-term interests more when making decisions?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢旅行吗？",
+    "textEn": "Do you like traveling?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你吸烟吗？",
+    "textEn": "Do you smoke?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你遇到过什么重大挑战？",
+    "textEn": "What major challenges have you encountered?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为自己是内向型还是外向型性格？",
+    "textEn": "Do you consider yourself an introvert or extrovert?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你希望伴侣在你身边扮演什么角色？",
+    "textEn": "What role do you want your partner to play by your side?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为父母应该如何教育孩子？",
+    "textEn": "How do you think parents should educate their children?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢绘画吗？",
+    "textEn": "Do you like painting?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是冲动型消费者还是理性型消费者？",
+    "textEn": "Are you an impulsive consumer or a rational one?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你周末喜欢做什么？",
+    "textEn": "What do you like to do on weekends?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是一个比较理性还是感性的人？",
+    "textEn": "Are you more rational or emotional?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何提升自己的专业技能？",
+    "textEn": "How do you improve your professional skills?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为吵架对恋爱关系有好处吗？",
+    "textEn": "Do you think quarreling is good for a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有过什么成功经验？",
+    "textEn": "What successful experiences have you had?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会借钱给朋友吗？",
+    "textEn": "Would you lend money to friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为良好的作息习惯重要吗？",
+    "textEn": "Do you think good sleep habits are important?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义自己的成功？",
+    "textEn": "How do you define your own success?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望什么时候结婚？",
+    "textEn": "When do you hope to get married?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了10年愿景而努力吗？",
+    "textEn": "Would you work hard for a 10-year vision?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何投资你的钱？",
+    "textEn": "How do you invest your money?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何看待过去的经历？",
+    "textEn": "How do you view past experiences?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你做决定时更看重长期利益还是短期利益？",
+    "textEn": "Do you value long-term interests or short-term interests more when making decisions?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理与伴侣父母的关系？",
+    "textEn": "How do you handle relationships with your partner's parents?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待消费主义？",
+    "textEn": "How do you view consumerism?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢看电影还是追剧？",
+    "textEn": "Do you prefer watching movies or TV series?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢旅行吗？",
+    "textEn": "Do you like traveling?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理恋爱中的冲突？",
+    "textEn": "How do you handle conflicts in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会主动结交新朋友吗？",
+    "textEn": "Would you take the initiative to make new friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你旅行时喜欢自由行还是跟团游？",
+    "textEn": "Do you prefer free travel or group tours when traveling?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为忠诚在恋爱中重要吗？",
+    "textEn": "Do you think loyalty is important in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了人生理想而奋斗吗？",
+    "textEn": "Would you strive for your life ideals?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢阅读吗？",
+    "textEn": "Do you like reading?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为细节决定成败吗？",
+    "textEn": "Do you think details determine success or failure?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常每天喝多少水？",
+    "textEn": "How much water do you usually drink per day?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为异地恋能成功吗？",
+    "textEn": "Do you think long-distance relationships can succeed?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻应该门当户对吗？",
+    "textEn": "Do you think marriage should be between people of similar social status?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你看问题时更注重全局还是细节？",
+    "textEn": "Do you focus more on the big picture or details when looking at problems?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢什么类型的艺术？",
+    "textEn": "What type of art do you like?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通过什么方式缓解压力？",
+    "textEn": "What do you do to relieve stress?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你的成长环境如何？",
+    "textEn": "What was your growth environment like?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有持续学习的习惯吗？",
+    "textEn": "Do you have a habit of continuous learning?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢看电影还是追剧？",
+    "textEn": "Do you prefer watching movies or TV series?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待眼前的享乐？",
+    "textEn": "How do you view immediate pleasure?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你多久参加一次社交活动？",
+    "textEn": "How often do you participate in social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为爱情中的信任重要吗？",
+    "textEn": "Do you think trust is important in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢什么运动？",
+    "textEn": "What sports do you like?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你周末的作息与工作日有什么不同？",
+    "textEn": "How is your weekend schedule different from weekdays?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会借钱给朋友吗？",
+    "textEn": "Would you lend money to friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会与不同价值观的人成为朋友吗？",
+    "textEn": "Would you be friends with people with different values?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参加过马拉松吗？",
+    "textEn": "Have you ever participated in a marathon?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人应该独立吗？",
+    "textEn": "Do you think people should be independent?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为幸福是什么？",
+    "textEn": "What do you think happiness is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢社交活动吗？",
+    "textEn": "Do you like social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常几点睡觉？",
+    "textEn": "What time do you usually go to bed?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为挑战对成长有好处吗？",
+    "textEn": "Do you think challenges are good for growth?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢在家做饭还是外出就餐？",
+    "textEn": "Do you prefer cooking at home or eating out?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你多久参加一次社交活动？",
+    "textEn": "How often do you participate in social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何表达对他人的赞赏？",
+    "textEn": "How do you express appreciation to others?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为什么是正义？",
+    "textEn": "What do you think justice is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你需要他人的认可吗？",
+    "textEn": "Do you need recognition from others?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻是必要的吗？",
+    "textEn": "Do you think marriage is necessary?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "当你不同意他人观点时，你会如何表达？",
+    "textEn": "How do you express disagreement with others?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何看待心理健康？",
+    "textEn": "How do you view mental health?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何建立对伴侣的信任？",
+    "textEn": "How do you build trust with your partner?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为未来规划做准备吗？",
+    "textEn": "Would you prepare for future plans?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为工作与生活的平衡重要吗？",
+    "textEn": "Do you think work-life balance is important?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会考虑他人的意见吗？",
+    "textEn": "Do you consider others' opinions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你多久参加一次社交活动？",
+    "textEn": "How often do you participate in social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为孩子应该从小培养什么品质？",
+    "textEn": "What qualities do you think children should develop from an early age?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你更喜欢国内旅行还是国外旅行？",
+    "textEn": "Do you prefer domestic travel or international travel?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢户外运动还是室内运动？",
+    "textEn": "Do you prefer outdoor sports or indoor sports?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会向他人倾诉你的情绪吗？",
+    "textEn": "Do you share your emotions with others?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为自己的情绪稳定性如何？",
+    "textEn": "How would you rate your emotional stability?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你会全职照顾孩子吗？",
+    "textEn": "Would you take care of your children full-time?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会感到社交疲惫吗？",
+    "textEn": "Do you feel socially exhausted?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在社交场合中通常扮演什么角色？",
+    "textEn": "What role do you usually play in social situations?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待家庭主妇/主夫？",
+    "textEn": "How do you view housewives/husbands?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在社交场合中通常扮演什么角色？",
+    "textEn": "What role do you usually play in social situations?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参加过职业培训吗？",
+    "textEn": "Have you participated in professional training?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会感到社交疲惫吗？",
+    "textEn": "Do you feel socially exhausted?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在什么行业发展？",
+    "textEn": "In which industry do you hope to develop?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢独自旅行还是和他人一起旅行？",
+    "textEn": "Do you prefer traveling alone or with others?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何应对不喜欢的社交场合？",
+    "textEn": "How do you deal with social situations you don't like?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望给世界留下什么？",
+    "textEn": "What do you hope to leave to the world?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何提升自己的专业技能？",
+    "textEn": "How do you improve your professional skills?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻需要爱情吗？",
+    "textEn": "Do you think marriage needs love?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为家庭中男女角色应该如何分工？",
+    "textEn": "How do you think gender roles should be divided in the family?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理决策带来的后果？",
+    "textEn": "How do you handle the consequences of your decisions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你希望给世界留下什么？",
+    "textEn": "What do you hope to leave to the world?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你的职业目标是什么？",
+    "textEn": "What are your career goals?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢听什么类型的音乐？",
+    "textEn": "What type of music do you like to listen to?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为朋友之间应该保持联系吗？",
+    "textEn": "Do you think friends should keep in touch?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有长期规划吗？",
+    "textEn": "Do you have long-term plans?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你周末喜欢做什么？",
+    "textEn": "What do you like to do on weekends?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义爱情？",
+    "textEn": "How do you define love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望什么时候结婚？",
+    "textEn": "When do you hope to get married?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何修复破裂的关系？",
+    "textEn": "How do you repair a broken relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为诚实是绝对的吗？",
+    "textEn": "Do you think honesty is absolute?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢在家做饭还是外出就餐？",
+    "textEn": "Do you prefer cooking at home or eating out?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会主动道歉吗？",
+    "textEn": "Would you take the initiative to apologize?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为异地恋能成功吗？",
+    "textEn": "Do you think long-distance relationships can succeed?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你购物时更看重品牌还是性价比？",
+    "textEn": "Do you value brand or cost-effectiveness more when shopping?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人应该独立吗？",
+    "textEn": "Do you think people should be independent?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你周末喜欢做什么？",
+    "textEn": "What do you like to do on weekends?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是一个比较理性还是感性的人？",
+    "textEn": "Are you more rational or emotional?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为吵架对恋爱关系有好处吗？",
+    "textEn": "Do you think quarreling is good for a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会借钱给朋友吗？",
+    "textEn": "Would you lend money to friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常如何处理自己的情绪？",
+    "textEn": "How do you usually handle your emotions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢独自做决定吗？",
+    "textEn": "Do you like making decisions alone?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待离婚？",
+    "textEn": "How do you view divorce?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为幸福是什么？",
+    "textEn": "What do you think happiness is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你相信一见钟情吗？",
+    "textEn": "Do you believe in love at first sight?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望伴侣在你身边扮演什么角色？",
+    "textEn": "What role do you want your partner to play by your side?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视孩子的教育吗？",
+    "textEn": "Do you value your children's education?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢大型聚会还是小型聚会？",
+    "textEn": "Do you prefer large gatherings or small parties?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在压力下通常表现如何？",
+    "textEn": "How do you typically perform under pressure?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为家庭中男女角色应该如何分工？",
+    "textEn": "How do you think gender roles should be divided in the family?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是一个快速决策者还是谨慎决策者？",
+    "textEn": "Are you a quick decision-maker or a cautious one?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你愿意承担家庭经济责任吗？",
+    "textEn": "Are you willing to take on family financial responsibilities?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为爱情中的信任重要吗？",
+    "textEn": "Do you think trust is important in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会感到社交疲惫吗？",
+    "textEn": "Do you feel socially exhausted?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了钱做违背原则的事吗？",
+    "textEn": "Would you do something against your principles for money?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有饮食禁忌吗？",
+    "textEn": "Do you have any dietary restrictions?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待分期付款？",
+    "textEn": "How do you view installment payments?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人生最重要的是什么？",
+    "textEn": "What do you think is the most important thing in life?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何看待加班？",
+    "textEn": "How do you view working overtime?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通过什么方式缓解压力？",
+    "textEn": "What do you do to relieve stress?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你的职业目标是什么？",
+    "textEn": "What are your career goals?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在选择工作时最看重什么？",
+    "textEn": "What do you value most when choosing a job?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为金钱的重要性如何？",
+    "textEn": "How important do you think money is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为10年后的世界会是什么样子？",
+    "textEn": "What do you think the world will be like in 10 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为金钱的重要性如何？",
+    "textEn": "How important do you think money is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你想要孩子吗？",
+    "textEn": "Do you want children?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你定期锻炼吗？",
+    "textEn": "Do you exercise regularly?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为爱情中的信任重要吗？",
+    "textEn": "Do you think trust is important in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望10年后的自己是什么样子？",
+    "textEn": "What do you hope to be like in 10 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为工作与生活的平衡重要吗？",
+    "textEn": "Do you think work-life balance is important?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人应该活在当下还是为未来打算？",
+    "textEn": "Do you think people should live in the present or plan for the future?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在未来5年内实现什么目标？",
+    "textEn": "What goals do you hope to achieve in the next 5 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是一个快速决策者还是谨慎决策者？",
+    "textEn": "Are you a quick decision-maker or a cautious one?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为人应该活在当下还是为未来打算？",
+    "textEn": "Do you think people should live in the present or plan for the future?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理生活中的不确定性？",
+    "textEn": "How do you handle uncertainty in life?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你是一个喜欢冒险的人吗？",
+    "textEn": "Are you an adventurous person?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你有什么爱好？",
+    "textEn": "What hobbies do you have?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常几点起床？",
+    "textEn": "What time do you usually get up?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为社交对生活重要吗？",
+    "textEn": "Do you think socializing is important to life?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢大型聚会还是小型聚会？",
+    "textEn": "Do you prefer large gatherings or small parties?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你做决定时更理性还是更感性？",
+    "textEn": "Are you more rational or emotional when making decisions?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义职业成功？",
+    "textEn": "How do you define career success?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何建立对伴侣的信任？",
+    "textEn": "How do you build trust with your partner?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢什么类型的艺术？",
+    "textEn": "What type of art do you like?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有储蓄习惯吗？",
+    "textEn": "Do you have saving habits?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待撒谎？",
+    "textEn": "How do you view lying?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为家庭决策应该由谁来做？",
+    "textEn": "Who do you think should make family decisions?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为恋爱中应该保持个人空间吗？",
+    "textEn": "Do you think you should maintain personal space in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为父母应该如何教育孩子？",
+    "textEn": "How do you think parents should educate their children?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为感性的人更容易幸福吗？",
+    "textEn": "Do you think emotional people are more likely to be happy?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻需要爱情吗？",
+    "textEn": "Do you think marriage needs love?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为学历重要吗？",
+    "textEn": "Do you think academic qualifications are important?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为未来5年会发生什么变化？",
+    "textEn": "What changes do you think will happen in the next 5 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会主动结交新朋友吗？",
+    "textEn": "Would you take the initiative to make new friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理与伴侣父母的关系？",
+    "textEn": "How do you handle relationships with your partner's parents?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你的成长经历对你有什么影响？",
+    "textEn": "How have your growth experiences influenced you?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为安全感来自哪里？",
+    "textEn": "Where do you think a sense of security comes from?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你定期锻炼吗？",
+    "textEn": "Do you exercise regularly?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会全职照顾孩子吗？",
+    "textEn": "Would you take care of your children full-time?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为爱情需要经营吗？",
+    "textEn": "Do you think love needs to be maintained?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会与不同价值观的人成为朋友吗？",
+    "textEn": "Would you be friends with people with different values?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视饮食健康吗？",
+    "textEn": "Do you value healthy eating?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你想要几个孩子？",
+    "textEn": "How many children do you want?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义职业成功？",
+    "textEn": "How do you define career success?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你相信一见钟情吗？",
+    "textEn": "Do you believe in love at first sight?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理与家人的矛盾？",
+    "textEn": "How do you handle conflicts with family members?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待现代艺术？",
+    "textEn": "How do you view modern art?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你更倾向于直接还是间接的沟通方式？",
+    "textEn": "Do you prefer direct or indirect communication?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何定义成功？",
+    "textEn": "How do you define success?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为人生最重要的是什么？",
+    "textEn": "What do you think is the most important thing in life?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何定义职业成功？",
+    "textEn": "How do you define career success?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视孩子的教育吗？",
+    "textEn": "Do you value your children's education?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视饮食健康吗？",
+    "textEn": "Do you value healthy eating?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢户外运动还是室内运动？",
+    "textEn": "Do you prefer outdoor sports or indoor sports?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢独立工作还是团队合作？",
+    "textEn": "Do you prefer working independently or in a team?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你会为自己的决定后悔吗？",
+    "textEn": "Do you regret your decisions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你会为了获得认可而改变自己吗？",
+    "textEn": "Would you change yourself to gain recognition?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢独自做决定吗？",
+    "textEn": "Do you like making decisions alone?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会因为缺乏安全感而焦虑吗？",
+    "textEn": "Would you feel anxious due to lack of security?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为10年后的世界会是什么样子？",
+    "textEn": "What do you think the world will be like in 10 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何表达对他人的赞赏？",
+    "textEn": "How do you express appreciation to others?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为婚姻需要爱情吗？",
+    "textEn": "Do you think marriage needs love?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通过什么方式缓解压力？",
+    "textEn": "What do you do to relieve stress?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你希望通过什么方式实现自我价值？",
+    "textEn": "How do you want to realize your self-worth?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢独立工作还是团队合作？",
+    "textEn": "Do you prefer working independently or in a team?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你通常需要多长时间从负面情绪中恢复？",
+    "textEn": "How long does it usually take you to recover from negative emotions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何投资你的钱？",
+    "textEn": "How do you invest your money?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视个人自主权吗？",
+    "textEn": "Do you value personal autonomy?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理朋友之间的矛盾？",
+    "textEn": "How do you handle conflicts between friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢社交活动吗？",
+    "textEn": "Do you like social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为社交对生活重要吗？",
+    "textEn": "Do you think socializing is important to life?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何表达对伴侣的爱？",
+    "textEn": "How do you express love to your partner?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何平衡自主和依赖？",
+    "textEn": "How do you balance autonomy and dependence?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你做决定时更理性还是更感性？",
+    "textEn": "Are you more rational or emotional when making decisions?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有储蓄习惯吗？",
+    "textEn": "Do you have saving habits?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你去过哪些地方旅行？",
+    "textEn": "Where have you traveled?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望给世界留下什么？",
+    "textEn": "What do you hope to leave to the world?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你的人生理想是什么？",
+    "textEn": "What is your life ideal?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你旅行时喜欢自由行还是跟团游？",
+    "textEn": "Do you prefer free travel or group tours when traveling?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何建立对伴侣的信任？",
+    "textEn": "How do you build trust with your partner?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会考虑他人的意见吗？",
+    "textEn": "Do you consider others' opinions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你希望在未来5年内达到什么职业水平？",
+    "textEn": "What career level do you hope to achieve in the next 5 years?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有多少亲密朋友？",
+    "textEn": "How many close friends do you have?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为家庭决策应该由谁来做？",
+    "textEn": "Who do you think should make family decisions?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在恋爱中保持怎样的相处模式？",
+    "textEn": "What kind of relationship model do you hope to maintain in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在压力下通常表现如何？",
+    "textEn": "How do you typically perform under pressure?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你有购买奢侈品的习惯吗？",
+    "textEn": "Do you have a habit of buying luxury goods?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人生最重要的是什么？",
+    "textEn": "What do you think is the most important thing in life?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何看待公平？",
+    "textEn": "How do you view fairness?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你希望在恋爱中保持怎样的相处模式？",
+    "textEn": "What kind of relationship model do you hope to maintain in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你周末的作息与工作日有什么不同？",
+    "textEn": "How is your weekend schedule different from weekdays?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会全职照顾孩子吗？",
+    "textEn": "Would you take care of your children full-time?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为运动对你的生活重要吗？",
+    "textEn": "Do you think sports are important to your life?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理朋友之间的矛盾？",
+    "textEn": "How do you handle conflicts between friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你现在如何看待过去的挑战？",
+    "textEn": "How do you view past challenges now?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理生活中的不确定性？",
+    "textEn": "How do you handle uncertainty in life?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你希望什么时候结婚？",
+    "textEn": "When do you hope to get married?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻是必要的吗？",
+    "textEn": "Do you think marriage is necessary?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在社交场合中通常扮演什么角色？",
+    "textEn": "What role do you usually play in social situations?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会借钱给朋友吗？",
+    "textEn": "Would you lend money to friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了钱做违背原则的事吗？",
+    "textEn": "Would you do something against your principles for money?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何处理与伴侣父母的关系？",
+    "textEn": "How do you handle relationships with your partner's parents?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待眼前的享乐？",
+    "textEn": "How do you view immediate pleasure?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何描述自己的沟通风格？",
+    "textEn": "How would you describe your communication style?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢大型聚会还是小型聚会？",
+    "textEn": "Do you prefer large gatherings or small parties?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会与不同价值观的人成为朋友吗？",
+    "textEn": "Would you be friends with people with different values?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为父母应该如何教育孩子？",
+    "textEn": "How do you think parents should educate their children?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视工作中的人际关系吗？",
+    "textEn": "Do you value interpersonal relationships at work?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为运动对你的生活重要吗？",
+    "textEn": "Do you think sports are important to your life?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢户外运动还是室内运动？",
+    "textEn": "Do you prefer outdoor sports or indoor sports?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理与家人的矛盾？",
+    "textEn": "How do you handle conflicts with family members?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你会为了多数人的利益牺牲少数人的利益吗？",
+    "textEn": "Would you sacrifice the interests of a few for the benefit of the majority?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你重视个人自主权吗？",
+    "textEn": "Do you value personal autonomy?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视孩子的教育吗？",
+    "textEn": "Do you value your children's education?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有购买奢侈品的习惯吗？",
+    "textEn": "Do you have a habit of buying luxury goods?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何提升自己的专业技能？",
+    "textEn": "How do you improve your professional skills?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为工作与生活的平衡重要吗？",
+    "textEn": "Do you think work-life balance is important?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为父母应该如何教育孩子？",
+    "textEn": "How do you think parents should educate their children?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为自己是内向型还是外向型性格？",
+    "textEn": "Do you consider yourself an introvert or extrovert?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你交友时最看重什么品质？",
+    "textEn": "What qualities do you value most when making friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为爱情需要经营吗？",
+    "textEn": "Do you think love needs to be maintained?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有什么爱好？",
+    "textEn": "What hobbies do you have?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是冲动型消费者还是理性型消费者？",
+    "textEn": "Are you an impulsive consumer or a rational one?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为全局思维重要吗？",
+    "textEn": "Do you think holistic thinking is important?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会演奏乐器吗？",
+    "textEn": "Can you play any musical instruments?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为学历重要吗？",
+    "textEn": "Do you think academic qualifications are important?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理恋爱中的冲突？",
+    "textEn": "How do you handle conflicts in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在什么行业发展？",
+    "textEn": "In which industry do you hope to develop?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在压力下通常表现如何？",
+    "textEn": "How do you typically perform under pressure?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你做决定时更理性还是更感性？",
+    "textEn": "Are you more rational or emotional when making decisions?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "当你不同意他人观点时，你会如何表达？",
+    "textEn": "How do you express disagreement with others?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢阅读吗？",
+    "textEn": "Do you like reading?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待撒谎？",
+    "textEn": "How do you view lying?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何看待分期付款？",
+    "textEn": "How do you view installment payments?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视饮食健康吗？",
+    "textEn": "Do you value healthy eating?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有持续学习的习惯吗？",
+    "textEn": "Do you have a habit of continuous learning?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你旅行时喜欢自由行还是跟团游？",
+    "textEn": "Do you prefer free travel or group tours when traveling?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "这些挑战对你有什么影响？",
+    "textEn": "What impact did these challenges have on you?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望10年后的自己是什么样子？",
+    "textEn": "What do you hope to be like in 10 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢大型聚会还是小型聚会？",
+    "textEn": "Do you prefer large gatherings or small parties?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为学历重要吗？",
+    "textEn": "Do you think academic qualifications are important?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为恋爱中应该保持个人空间吗？",
+    "textEn": "Do you think you should maintain personal space in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为什么是正义？",
+    "textEn": "What do you think justice is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你每年进行体检吗？",
+    "textEn": "Do you have annual physical examinations?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你对未来10年有什么期望？",
+    "textEn": "What expectations do you have for the next 10 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会全职照顾孩子吗？",
+    "textEn": "Would you take care of your children full-time?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待婚姻？",
+    "textEn": "How do you view marriage?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你考虑过创业吗？",
+    "textEn": "Have you considered starting a business?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你的职业目标是什么？",
+    "textEn": "What are your career goals?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有持续学习的习惯吗？",
+    "textEn": "Do you have a habit of continuous learning?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为吵架对恋爱关系有好处吗？",
+    "textEn": "Do you think quarreling is good for a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待婚姻？",
+    "textEn": "How do you view marriage?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "他人的评价会影响你吗？",
+    "textEn": "Would others' evaluations affect you?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为什么是成功？",
+    "textEn": "What do you think success is?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在选择工作时最看重什么？",
+    "textEn": "What do you value most when choosing a job?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会主动结交新朋友吗？",
+    "textEn": "Would you take the initiative to make new friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何修复破裂的关系？",
+    "textEn": "How do you repair a broken relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了爱情牺牲什么？",
+    "textEn": "What would you sacrifice for love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待家庭主妇/主夫？",
+    "textEn": "How do you view housewives/husbands?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望什么时候结婚？",
+    "textEn": "When do you hope to get married?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有什么爱好？",
+    "textEn": "What hobbies do you have?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢独自旅行还是和他人一起旅行？",
+    "textEn": "Do you prefer traveling alone or with others?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你周末的作息与工作日有什么不同？",
+    "textEn": "How is your weekend schedule different from weekdays?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待离婚？",
+    "textEn": "How do you view divorce?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为父母应该如何教育孩子？",
+    "textEn": "How do you think parents should educate their children?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你的成长环境如何？",
+    "textEn": "What was your growth environment like?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有长期规划吗？",
+    "textEn": "Do you have long-term plans?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会被情绪影响判断吗？",
+    "textEn": "Would you be influenced by emotions in your judgments?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为异地恋能成功吗？",
+    "textEn": "Do you think long-distance relationships can succeed?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你更喜欢国内旅行还是国外旅行？",
+    "textEn": "Do you prefer domestic travel or international travel?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你去过哪些地方旅行？",
+    "textEn": "Where have you traveled?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "什么能给你安全感？",
+    "textEn": "What can give you a sense of security?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢绘画吗？",
+    "textEn": "Do you like painting?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常几点睡觉？",
+    "textEn": "What time do you usually go to bed?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了人生理想而奋斗吗？",
+    "textEn": "Would you strive for your life ideals?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会被情绪影响判断吗？",
+    "textEn": "Would you be influenced by emotions in your judgments?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你去过哪些地方旅行？",
+    "textEn": "Where have you traveled?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "什么能给你安全感？",
+    "textEn": "What can give you a sense of security?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人生理想能实现吗？",
+    "textEn": "Do you think life ideals can be realized?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为社交对生活重要吗？",
+    "textEn": "Do you think socializing is important to life?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何应对愤怒情绪？",
+    "textEn": "How do you cope with anger?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你想要几个孩子？",
+    "textEn": "How many children do you want?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何表达对伴侣的爱？",
+    "textEn": "How do you express love to your partner?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会冷战吗？",
+    "textEn": "Would you give the silent treatment?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是素食主义者吗？",
+    "textEn": "Are you a vegetarian?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你想要孩子吗？",
+    "textEn": "Do you want children?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你吸烟吗？",
+    "textEn": "Do you smoke?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待分期付款？",
+    "textEn": "How do you view installment payments?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待撒谎？",
+    "textEn": "How do you view lying?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会主动结交新朋友吗？",
+    "textEn": "Would you take the initiative to make new friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意承担家庭经济责任吗？",
+    "textEn": "Are you willing to take on family financial responsibilities?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义爱情？",
+    "textEn": "How do you define love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常如何健身？",
+    "textEn": "How do you usually exercise?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意为了工作牺牲个人时间吗？",
+    "textEn": "Would you sacrifice personal time for work?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常需要多长时间从负面情绪中恢复？",
+    "textEn": "How long does it usually take you to recover from negative emotions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何看待现代艺术？",
+    "textEn": "How do you view modern art?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了多数人的利益牺牲少数人的利益吗？",
+    "textEn": "Would you sacrifice the interests of a few for the benefit of the majority?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢安静的场合还是热闹的场合？",
+    "textEn": "Do you prefer quiet occasions or lively ones?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为自己的决定后悔吗？",
+    "textEn": "Do you regret your decisions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何描述自己的沟通风格？",
+    "textEn": "How would you describe your communication style?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为自己的创造力如何？",
+    "textEn": "How would you rate your creativity?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为恋爱中应该保持个人空间吗？",
+    "textEn": "Do you think you should maintain personal space in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常如何处理自己的情绪？",
+    "textEn": "How do you usually handle your emotions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你有健康的生活习惯吗？",
+    "textEn": "Do you have healthy living habits?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你擅长倾听吗？",
+    "textEn": "Are you a good listener?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何描述自己的沟通风格？",
+    "textEn": "How would you describe your communication style?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你会为了获得认可而改变自己吗？",
+    "textEn": "Would you change yourself to gain recognition?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何平衡理性和感性？",
+    "textEn": "How do you balance rationality and emotion?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为父母应该如何教育孩子？",
+    "textEn": "How do you think parents should educate their children?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何应对愤怒情绪？",
+    "textEn": "How do you cope with anger?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你会为了爱情牺牲什么？",
+    "textEn": "What would you sacrifice for love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有饮食禁忌吗？",
+    "textEn": "Do you have any dietary restrictions?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻是必要的吗？",
+    "textEn": "Do you think marriage is necessary?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会冷战吗？",
+    "textEn": "Would you give the silent treatment?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常几点睡觉？",
+    "textEn": "What time do you usually go to bed?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢绘画吗？",
+    "textEn": "Do you like painting?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义爱情？",
+    "textEn": "How do you define love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为工作与生活的平衡重要吗？",
+    "textEn": "Do you think work-life balance is important?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为吵架对恋爱关系有好处吗？",
+    "textEn": "Do you think quarreling is good for a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是一个比较理性还是感性的人？",
+    "textEn": "Are you more rational or emotional?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为朋友之间应该保持联系吗？",
+    "textEn": "Do you think friends should keep in touch?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理沟通中的误解？",
+    "textEn": "How do you handle misunderstandings in communication?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你有多少亲密朋友？",
+    "textEn": "How many close friends do you have?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有午休习惯吗？",
+    "textEn": "Do you have a habit of taking naps?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待眼前的享乐？",
+    "textEn": "How do you view immediate pleasure?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何应对不喜欢的社交场合？",
+    "textEn": "How do you deal with social situations you don't like?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为童年经历重要吗？",
+    "textEn": "Do you think childhood experiences are important?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢计划还是随遇而安？",
+    "textEn": "Do you prefer planning or going with the flow?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为工作与生活的平衡重要吗？",
+    "textEn": "Do you think work-life balance is important?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有持续学习的习惯吗？",
+    "textEn": "Do you have a habit of continuous learning?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为10年愿景能实现吗？",
+    "textEn": "Do you think a 10-year vision can be achieved?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常几点起床？",
+    "textEn": "What time do you usually get up?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为运动对你的生活重要吗？",
+    "textEn": "Do you think sports are important to your life?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理沟通中的误解？",
+    "textEn": "How do you handle misunderstandings in communication?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为婚姻需要爱情吗？",
+    "textEn": "Do you think marriage needs love?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你做决定时通常依赖什么？",
+    "textEn": "What do you typically rely on when making decisions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你购物时更看重品牌还是性价比？",
+    "textEn": "Do you value brand or cost-effectiveness more when shopping?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢听什么类型的音乐？",
+    "textEn": "What type of music do you like to listen to?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你交友时最看重什么品质？",
+    "textEn": "What qualities do you value most when making friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理复杂问题？",
+    "textEn": "How do you handle complex problems?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何建立安全感？",
+    "textEn": "How do you build a sense of security?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待消费主义？",
+    "textEn": "How do you view consumerism?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何看待家庭主妇/主夫？",
+    "textEn": "How do you view housewives/husbands?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "他人的评价会影响你吗？",
+    "textEn": "Would others' evaluations affect you?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你考虑过创业吗？",
+    "textEn": "Have you considered starting a business?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢独自旅行还是和他人一起旅行？",
+    "textEn": "Do you prefer traveling alone or with others?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待婚姻？",
+    "textEn": "How do you view marriage?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待心理健康？",
+    "textEn": "How do you view mental health?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待没有实现的人生理想？",
+    "textEn": "How do you view unfulfilled life ideals?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻是必要的吗？",
+    "textEn": "Do you think marriage is necessary?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是如何克服这些挑战的？",
+    "textEn": "How did you overcome these challenges?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢在家做饭还是外出就餐？",
+    "textEn": "Do you prefer cooking at home or eating out?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理伴侣的欺骗？",
+    "textEn": "How do you handle your partner's deception?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为朋友之间应该保持联系吗？",
+    "textEn": "Do you think friends should keep in touch?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻是必要的吗？",
+    "textEn": "Do you think marriage is necessary?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待公平？",
+    "textEn": "How do you view fairness?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你的成长环境如何？",
+    "textEn": "What was your growth environment like?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为学历重要吗？",
+    "textEn": "Do you think academic qualifications are important?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为金钱的重要性如何？",
+    "textEn": "How important do you think money is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为朋友之间应该保持联系吗？",
+    "textEn": "Do you think friends should keep in touch?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你考虑过创业吗？",
+    "textEn": "Have you considered starting a business?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会被情绪影响判断吗？",
+    "textEn": "Would you be influenced by emotions in your judgments?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常几点起床？",
+    "textEn": "What time do you usually get up?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理决策带来的后果？",
+    "textEn": "How do you handle the consequences of your decisions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你是素食主义者吗？",
+    "textEn": "Are you a vegetarian?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你擅长倾听吗？",
+    "textEn": "Are you a good listener?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何平衡理性和感性？",
+    "textEn": "How do you balance rationality and emotion?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为童年经历重要吗？",
+    "textEn": "Do you think childhood experiences are important?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为感性的人更容易幸福吗？",
+    "textEn": "Do you think emotional people are more likely to be happy?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你定期锻炼吗？",
+    "textEn": "Do you exercise regularly?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为自己的情绪稳定性如何？",
+    "textEn": "How would you rate your emotional stability?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何定义爱情？",
+    "textEn": "How do you define love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为异地恋能成功吗？",
+    "textEn": "Do you think long-distance relationships can succeed?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢什么运动？",
+    "textEn": "What sports do you like?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是一个比较理性还是感性的人？",
+    "textEn": "Are you more rational or emotional?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你通常每天喝多少水？",
+    "textEn": "How much water do you usually drink per day?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理恋爱中的平淡期？",
+    "textEn": "How do you handle the平淡 period in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "他人的评价会影响你吗？",
+    "textEn": "Would others' evaluations affect you?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为感性的人更容易幸福吗？",
+    "textEn": "Do you think emotional people are more likely to be happy?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参观过艺术展览吗？",
+    "textEn": "Have you visited art exhibitions?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有过什么成功经验？",
+    "textEn": "What successful experiences have you had?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理与伴侣父母的关系？",
+    "textEn": "How do you handle relationships with your partner's parents?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为自己的决定后悔吗？",
+    "textEn": "Do you regret your decisions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你交友时最看重什么品质？",
+    "textEn": "What qualities do you value most when making friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为家庭决策应该由谁来做？",
+    "textEn": "Who do you think should make family decisions?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为10年愿景能实现吗？",
+    "textEn": "Do you think a 10-year vision can be achieved?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为幸福是什么？",
+    "textEn": "What do you think happiness is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理复杂问题？",
+    "textEn": "How do you handle complex problems?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会主动结交新朋友吗？",
+    "textEn": "Would you take the initiative to make new friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为童年经历重要吗？",
+    "textEn": "Do you think childhood experiences are important?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义成功？",
+    "textEn": "How do you define success?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢大型聚会还是小型聚会？",
+    "textEn": "Do you prefer large gatherings or small parties?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待婚姻？",
+    "textEn": "How do you view marriage?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为社交对生活重要吗？",
+    "textEn": "Do you think socializing is important to life?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会借钱给朋友吗？",
+    "textEn": "Would you lend money to friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你多久参加一次社交活动？",
+    "textEn": "How often do you participate in social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会主动道歉吗？",
+    "textEn": "Would you take the initiative to apologize?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有什么爱好？",
+    "textEn": "What hobbies do you have?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待公平？",
+    "textEn": "How do you view fairness?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你希望在未来5年内达到什么职业水平？",
+    "textEn": "What career level do you hope to achieve in the next 5 years?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在未来5年内达到什么职业水平？",
+    "textEn": "What career level do you hope to achieve in the next 5 years?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何投资你的钱？",
+    "textEn": "How do you invest your money?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何看待离婚？",
+    "textEn": "How do you view divorce?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会与不同价值观的人成为朋友吗？",
+    "textEn": "Would you be friends with people with different values?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会全职照顾孩子吗？",
+    "textEn": "Would you take care of your children full-time?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望给世界留下什么？",
+    "textEn": "What do you hope to leave to the world?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你考虑过创业吗？",
+    "textEn": "Have you considered starting a business?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参加过马拉松吗？",
+    "textEn": "Have you ever participated in a marathon?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了钱做违背原则的事吗？",
+    "textEn": "Would you do something against your principles for money?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你对未来5年有什么规划？",
+    "textEn": "What are your plans for the next 5 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理伴侣的欺骗？",
+    "textEn": "How do you handle your partner's deception?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢看电影还是追剧？",
+    "textEn": "Do you prefer watching movies or TV series?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为诚实是绝对的吗？",
+    "textEn": "Do you think honesty is absolute?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你通常如何处理自己的情绪？",
+    "textEn": "How do you usually handle your emotions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为挑战对成长有好处吗？",
+    "textEn": "Do you think challenges are good for growth?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常如何健身？",
+    "textEn": "How do you usually exercise?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常每天喝多少水？",
+    "textEn": "How much water do you usually drink per day?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待加班？",
+    "textEn": "How do you view working overtime?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢听什么类型的音乐？",
+    "textEn": "What type of music do you like to listen to?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会因为缺乏安全感而焦虑吗？",
+    "textEn": "Would you feel anxious due to lack of security?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你的职业目标是什么？",
+    "textEn": "What are your career goals?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有多少亲密朋友？",
+    "textEn": "How many close friends do you have?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为朋友之间应该保持联系吗？",
+    "textEn": "Do you think friends should keep in touch?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为未来规划做准备吗？",
+    "textEn": "Would you prepare for future plans?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人生最重要的是什么？",
+    "textEn": "What do you think is the most important thing in life?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视孩子的教育吗？",
+    "textEn": "Do you value your children's education?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参观过艺术展览吗？",
+    "textEn": "Have you visited art exhibitions?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢什么类型的艺术？",
+    "textEn": "What type of art do you like?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会冷战吗？",
+    "textEn": "Would you give the silent treatment?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待分期付款？",
+    "textEn": "How do you view installment payments?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是冲动型消费者还是理性型消费者？",
+    "textEn": "Are you an impulsive consumer or a rational one?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会因为缺乏安全感而焦虑吗？",
+    "textEn": "Would you feel anxious due to lack of security?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意学习新的知识和技能吗？",
+    "textEn": "Are you willing to learn new knowledge and skills?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望10年后的自己是什么样子？",
+    "textEn": "What do you hope to be like in 10 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你考虑过创业吗？",
+    "textEn": "Have you considered starting a business?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你每年进行体检吗？",
+    "textEn": "Do you have annual physical examinations?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻是必要的吗？",
+    "textEn": "Do you think marriage is necessary?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待过去的经历？",
+    "textEn": "How do you view past experiences?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何描述自己的沟通风格？",
+    "textEn": "How would you describe your communication style?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为运动对你的生活重要吗？",
+    "textEn": "Do you think sports are important to your life?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何应对愤怒情绪？",
+    "textEn": "How do you cope with anger?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你在选择工作时最看重什么？",
+    "textEn": "What do you value most when choosing a job?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参加过马拉松吗？",
+    "textEn": "Have you ever participated in a marathon?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你需要他人的认可吗？",
+    "textEn": "Do you need recognition from others?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你吸烟吗？",
+    "textEn": "Do you smoke?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人生理想能实现吗？",
+    "textEn": "Do you think life ideals can be realized?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你吸烟吗？",
+    "textEn": "Do you smoke?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你购物时更看重品牌还是性价比？",
+    "textEn": "Do you value brand or cost-effectiveness more when shopping?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为爱情需要经营吗？",
+    "textEn": "Do you think love needs to be maintained?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你对未来5年有什么规划？",
+    "textEn": "What are your plans for the next 5 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻应该门当户对吗？",
+    "textEn": "Do you think marriage should be between people of similar social status?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢计划还是随遇而安？",
+    "textEn": "Do you prefer planning or going with the flow?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为什么是成功？",
+    "textEn": "What do you think success is?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为理性思考重要吗？",
+    "textEn": "Do you think rational thinking is important?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你是一个喜欢冒险的人吗？",
+    "textEn": "Are you an adventurous person?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何应对不喜欢的社交场合？",
+    "textEn": "How do you deal with social situations you don't like?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了环保而改变消费习惯吗？",
+    "textEn": "Would you change your consumption habits for environmental protection?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你擅长倾听吗？",
+    "textEn": "Are you a good listener?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你在关系中需要安全感吗？",
+    "textEn": "Do you need a sense of security in relationships?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参观过艺术展览吗？",
+    "textEn": "Have you visited art exhibitions?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望伴侣在你身边扮演什么角色？",
+    "textEn": "What role do you want your partner to play by your side?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢安静的场合还是热闹的场合？",
+    "textEn": "Do you prefer quiet occasions or lively ones?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻需要爱情吗？",
+    "textEn": "Do you think marriage needs love?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待他人的赞美？",
+    "textEn": "How do you view others' compliments?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理恋爱中的平淡期？",
+    "textEn": "How do you handle the平淡 period in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你相信一见钟情吗？",
+    "textEn": "Do you believe in love at first sight?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待现代艺术？",
+    "textEn": "How do you view modern art?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "这些挑战对你有什么影响？",
+    "textEn": "What impact did these challenges have on you?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何建立安全感？",
+    "textEn": "How do you build a sense of security?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何表达对他人的赞赏？",
+    "textEn": "How do you express appreciation to others?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢独自旅行还是和他人一起旅行？",
+    "textEn": "Do you prefer traveling alone or with others?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意学习新的知识和技能吗？",
+    "textEn": "Are you willing to learn new knowledge and skills?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何定义成功？",
+    "textEn": "How do you define success?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参加过职业培训吗？",
+    "textEn": "Have you participated in professional training?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢安静的场合还是热闹的场合？",
+    "textEn": "Do you prefer quiet occasions or lively ones?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你现在如何看待过去的挑战？",
+    "textEn": "How do you view past challenges now?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你周末喜欢做什么？",
+    "textEn": "What do you like to do on weekends?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待心理健康？",
+    "textEn": "How do you view mental health?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为家庭在生活中的地位如何？",
+    "textEn": "What role do you think family plays in life?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你会查看伴侣的手机吗？",
+    "textEn": "Would you check your partner's phone?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望什么时候结婚？",
+    "textEn": "When do you hope to get married?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望通过什么方式实现自我价值？",
+    "textEn": "How do you want to realize your self-worth?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待没有实现的人生理想？",
+    "textEn": "How do you view unfulfilled life ideals?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理伴侣的欺骗？",
+    "textEn": "How do you handle your partner's deception?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢被他人控制吗？",
+    "textEn": "Do you like being controlled by others?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意为了工作牺牲个人时间吗？",
+    "textEn": "Would you sacrifice personal time for work?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你愿意为了工作牺牲个人时间吗？",
+    "textEn": "Would you sacrifice personal time for work?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在未来5年内实现什么目标？",
+    "textEn": "What goals do you hope to achieve in the next 5 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你相信一见钟情吗？",
+    "textEn": "Do you believe in love at first sight?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了爱情牺牲什么？",
+    "textEn": "What would you sacrifice for love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待消费主义？",
+    "textEn": "How do you view consumerism?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你如何修复破裂的关系？",
+    "textEn": "How do you repair a broken relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为良好的作息习惯重要吗？",
+    "textEn": "Do you think good sleep habits are important?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有持续学习的习惯吗？",
+    "textEn": "Do you have a habit of continuous learning?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参加过职业培训吗？",
+    "textEn": "Have you participated in professional training?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参加过马拉松吗？",
+    "textEn": "Have you ever participated in a marathon?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了成功牺牲什么？",
+    "textEn": "What would you sacrifice for success?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有多少亲密朋友？",
+    "textEn": "How many close friends do you have?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了环保而改变消费习惯吗？",
+    "textEn": "Would you change your consumption habits for environmental protection?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在恋爱中保持怎样的相处模式？",
+    "textEn": "What kind of relationship model do you hope to maintain in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为恋爱中应该保持个人空间吗？",
+    "textEn": "Do you think you should maintain personal space in a relationship?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为孩子应该从小培养什么品质？",
+    "textEn": "What qualities do you think children should develop from an early age?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在未来5年内达到什么职业水平？",
+    "textEn": "What career level do you hope to achieve in the next 5 years?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在社交场合中通常扮演什么角色？",
+    "textEn": "What role do you usually play in social situations?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视工作中的人际关系吗？",
+    "textEn": "Do you value interpersonal relationships at work?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为忠诚在恋爱中重要吗？",
+    "textEn": "Do you think loyalty is important in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你做决定时更看重长期利益还是短期利益？",
+    "textEn": "Do you value long-term interests or short-term interests more when making decisions?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你想要孩子吗？",
+    "textEn": "Do you want children?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你认为家庭决策应该由谁来做？",
+    "textEn": "Who do you think should make family decisions?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢独立工作还是团队合作？",
+    "textEn": "Do you prefer working independently or in a team?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你会主动结交新朋友吗？",
+    "textEn": "Would you take the initiative to make new friends?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了10年愿景而努力吗？",
+    "textEn": "Would you work hard for a 10-year vision?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为人应该活在当下还是为未来打算？",
+    "textEn": "Do you think people should live in the present or plan for the future?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何表达对伴侣的爱？",
+    "textEn": "How do you express love to your partner?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为未来规划做准备吗？",
+    "textEn": "Would you prepare for future plans?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为安全感来自哪里？",
+    "textEn": "Where do you think a sense of security comes from?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你每年进行体检吗？",
+    "textEn": "Do you have annual physical examinations?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了爱情牺牲什么？",
+    "textEn": "What would you sacrifice for love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理与家人的矛盾？",
+    "textEn": "How do you handle conflicts with family members?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待家庭主妇/主夫？",
+    "textEn": "How do you view housewives/husbands?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何处理与伴侣父母的关系？",
+    "textEn": "How do you handle relationships with your partner's parents?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢户外运动还是室内运动？",
+    "textEn": "Do you prefer outdoor sports or indoor sports?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待离婚？",
+    "textEn": "How do you view divorce?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为自己的创造力如何？",
+    "textEn": "How would you rate your creativity?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你通常如何处理自己的情绪？",
+    "textEn": "How do you usually handle your emotions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢计划还是随遇而安？",
+    "textEn": "Do you prefer planning or going with the flow?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你有储蓄习惯吗？",
+    "textEn": "Do you have saving habits?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你会为了成功牺牲什么？",
+    "textEn": "What would you sacrifice for success?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你重视饮食健康吗？",
+    "textEn": "Do you value healthy eating?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在恋爱中保持怎样的相处模式？",
+    "textEn": "What kind of relationship model do you hope to maintain in love?",
+    "category": "relationship",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待现代艺术？",
+    "textEn": "How do you view modern art?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢被他人控制吗？",
+    "textEn": "Do you like being controlled by others?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为家庭在生活中的地位如何？",
+    "textEn": "What role do you think family plays in life?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你多久参加一次社交活动？",
+    "textEn": "How often do you participate in social activities?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你参加过职业培训吗？",
+    "textEn": "Have you participated in professional training?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为规划对未来重要吗？",
+    "textEn": "Do you think planning is important for the future?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会考虑他人的意见吗？",
+    "textEn": "Do you consider others' opinions?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你参观过艺术展览吗？",
+    "textEn": "Have you visited art exhibitions?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为父母应该如何教育孩子？",
+    "textEn": "How do you think parents should educate their children?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你喜欢绘画吗？",
+    "textEn": "Do you like painting?",
+    "category": "interests",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为自己是内向型还是外向型性格？",
+    "textEn": "Do you consider yourself an introvert or extrovert?",
+    "category": "personality",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你喜欢安静的场合还是热闹的场合？",
+    "textEn": "Do you prefer quiet occasions or lively ones?",
+    "category": "social",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你通常几点睡觉？",
+    "textEn": "What time do you usually go to bed?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你会为了多数人的利益牺牲少数人的利益吗？",
+    "textEn": "Would you sacrifice the interests of a few for the benefit of the majority?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待消费主义？",
+    "textEn": "How do you view consumerism?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为什么是正义？",
+    "textEn": "What do you think justice is?",
+    "category": "values",
+    "createdAt": "2026-01-19T18:47:44.053186"
+  },
+  {
+    "text": "你有什么难忘的成长经历？",
+    "textEn": "What unforgettable growth experiences do you have?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为全局思维重要吗？",
+    "textEn": "Do you think holistic thinking is important?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你想要几个孩子？",
+    "textEn": "How many children do you want?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待他人的赞美？",
+    "textEn": "How do you view others' compliments?",
+    "category": "emotion",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为婚姻应该门当户对吗？",
+    "textEn": "Do you think marriage should be between people of similar social status?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在未来5年内实现什么目标？",
+    "textEn": "What goals do you hope to achieve in the next 5 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有什么难忘的成长经历？",
+    "textEn": "What unforgettable growth experiences do you have?",
+    "category": "experience",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你有健康的生活习惯吗？",
+    "textEn": "Do you have healthy living habits?",
+    "category": "lifestyle",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你擅长发现细节吗？",
+    "textEn": "Are you good at noticing details?",
+    "category": "thinking",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你如何看待家庭主妇/主夫？",
+    "textEn": "How do you view housewives/husbands?",
+    "category": "family",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你希望在什么行业发展？",
+    "textEn": "In which industry do you hope to develop?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你对未来10年有什么期望？",
+    "textEn": "What expectations do you have for the next 10 years?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你在选择工作时最看重什么？",
+    "textEn": "What do you value most when choosing a job?",
+    "category": "career",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  },
+  {
+    "text": "你认为10年愿景能实现吗？",
+    "textEn": "Do you think a 10-year vision can be achieved?",
+    "category": "future",
+    "createdAt": "2026-01-19T18:47:44.053692"
+  }
+]
